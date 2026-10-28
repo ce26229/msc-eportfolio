@@ -29,19 +29,19 @@ Choose one major computing discipline and explain its impact on a specific indus
 
 Support the analysis with academic literature, critically examining different perspectives. Confirm how the assessment defines the three-year period before selecting the example; record its event date and supporting source.
 
-- **Selected discipline:** Not yet chosen.
-- **Selected industry:** Not yet chosen.
-- **Recent example and event date:** Not yet chosen.
-- **Central argument and alternative perspectives:** To develop after research.
+- **Selected discipline:** **Not yet chosen.**
+- **Selected industry:** **Not yet chosen.**
+- **Recent example and event date:** **Not yet chosen.**
+- **Central argument and alternative perspectives:** **To develop after research.**
 
 ## Required contributions
 
 | Contribution | Word guidance supplied | Sources and critical engagement | Status |
 | --- | --- | --- | --- |
-| Initial Post | Up to 300 words | At least three academic references; critically analyse different perspectives | Not yet added |
-| Peer Response 1 | See clarification below | Constructive feedback, a counterargument or extension; plan at least two academic references for this response | Not yet added |
-| Peer Response 2 | See clarification below | Constructive feedback, a counterargument or extension; plan at least two academic references for this response | Not yet added |
-| Summary Post | 300 words; post by Week 3 | Evaluate peer contributions and reviews, develop the initial position and demonstrate personal growth | Not yet added |
+| Initial Post | Up to 300 words | At least three academic references; critically analyse different perspectives | **Not yet added** |
+| Peer Response 1 | See clarification below | Constructive feedback, a counterargument or extension; plan at least two academic references for this response | **Not yet added** |
+| Peer Response 2 | See clarification below | Constructive feedback, a counterargument or extension; plan at least two academic references for this response | **Not yet added** |
+| Summary Post | 300 words; post by Week 3 | Evaluate peer contributions and reviews, develop the initial position and demonstrate personal growth | **Not yet added** |
 
 **Peer-response word count to confirm:** The brief states “Engage with at least two peer’s post (200 words)”. A provisional allocation of 300 + 200 + 200 + 300 totals 1,000 words, suggesting 200 words per response, but this interpretation requires confirmation. The reference wording refers to “the response”; planning at least two academic references per response avoids assuming that two across both responses is sufficient. Confirm whether references are included in the word count.
 
@@ -80,10 +80,10 @@ The brief also identifies critical thinking and analysis, research and informati
 
 | Contribution | Date posted | Direct discussion link | Feedback received | Revision or learning |
 | --- | --- | --- | --- | --- |
-| Initial Post | To complete | To add | Awaiting participation | To evaluate |
-| Peer Response 1 | To complete | To add | Awaiting participation | To evaluate |
-| Peer Response 2 | To complete | To add | Awaiting participation | To evaluate |
-| Summary Post | To complete by confirmed Week 3 date | To add | Awaiting participation | To evaluate |
+| Initial Post | **To complete** | **To add** | **Awaiting participation** | **To evaluate** |
+| Peer Response 1 | **To complete** | **To add** | **Awaiting participation** | **To evaluate** |
+| Peer Response 2 | **To complete** | **To add** | **Awaiting participation** | **To evaluate** |
+| Summary Post | **To complete by confirmed Week 3 date** | **To add** | **Awaiting participation** | **To evaluate** |
 
 Retain accurate copies of your own contributions and feedback. Obtain appropriate permission or anonymise material before publishing peer contributions or private feedback in the public portfolio.
 
