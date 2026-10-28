@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+<meta name="description" content="{{ site.description | escape }}">
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header><div class="wrap"><a class="brand" href="{{ '/' | relative_url }}">MSc ePortfolio</a><p>Information Technology Management · University of Essex Online</p>
+<nav aria-label="Main navigation">
+<a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+<a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About Me</a>
+<a href="{{ '/modules/' | relative_url }}"{% if page.url contains '/modules/' %} aria-current="page"{% endif %}>Modules</a>
+</nav></div></header>
+<main id="main" class="wrap"><article>{{ content }}</article></main>
+<footer class="wrap"><p>A developing record of learning, evidence and critical reflection.</p><a href="https://github.com/ce26229/msc-eportfolio">View repository and revision history</a></footer>
+</body>
+</html>
