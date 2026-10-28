@@ -15,6 +15,7 @@ permalink: /modules/launch-into-computing/collaborative-discussion/
 | Topic | The Evolution of Computing and Its Impact on Business and Society |
 | Duration | Four weeks; Units 1–4 |
 | Total word count | 1,000 words |
+| Overall module weighting | 20%, as clarified by the student on 28/10/2026 |
 | Overall deadline previously supplied | Monday 16/11/2026 at 23:55; learning-platform time zone to confirm |
 | Submission | One Word or PDF document containing the initial post, both peer responses, summary and discussion link |
 | Submission destination | [VLE submission point](https://www.my-course.co.uk/mod/assign/view.php?id=1434499) |
@@ -50,7 +51,7 @@ Support the analysis with academic literature, critically examining different pe
 
 ## Marking criteria
 
-These percentages are the weights of criteria within this assessment. The assessment's contribution to the overall module grade has not been supplied.
+These percentages are the weights of criteria within this assessment. The assessment contributes 20% of the overall module grade, as clarified by the student on 28/10/2026.
 
 | Criterion | Weight |
 | --- | --- |
