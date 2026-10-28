@@ -14,6 +14,7 @@
 <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
 <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About Me</a>
 <a href="{{ '/modules/' | relative_url }}"{% if page.url contains '/modules/' %} aria-current="page"{% endif %}>Modules</a>
+<a href="{{ '/journal/' | relative_url }}"{% if page.url contains '/journal/' %} aria-current="page"{% endif %}>Personal Journal</a>
 </nav></div></header>
 <main id="main" class="wrap"><article>{{ content }}</article></main>
 <footer class="wrap"><p>A developing record of learning, evidence and critical reflection.</p></footer>
