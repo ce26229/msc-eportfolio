@@ -12,7 +12,7 @@ permalink: /modules/launch-into-computing/assignment-part-a/
 
 - **Assessment:** Individual programming exercise comparing Python and C.
 - **Weight:** 40%, as stated in the supplied brief.
-- **Size:** 3,000 words equivalent; component allowances need clarification below.
+- **Size:** 3,000 words equivalent in total, with flexibility across the component sections as clarified by the student on 28/10/2026.
 - **Due:** End of Unit 12; deadline previously supplied: Monday 25/01/2027 at 23:55. Learning-platform time zone to confirm.
 - **Learning outcomes:** LO3 (critical evaluation of methods, tools and techniques and business impact) and LO4 (legal, social, ethical and professional issues).
 - **Submission:** [End of Module Assignment submission point](https://www.my-course.co.uk/mod/assign/view.php?id=1434495).
@@ -73,7 +73,7 @@ The following are planning recommendations, not additional assessment requiremen
 | Screenshots and testing evidence | 150–200 words equivalent |
 | **Sum of component ranges** | **2,800–3,200 words equivalent** |
 
-**Clarification needed:** The component ranges extend above the stated 3,000-word equivalent total. Confirm how equivalence is calculated and which limit controls the submission. Do not treat the penalty threshold as a target or extra allowance.
+**Planning clarification supplied on 28/10/2026:** The total is 3,000 words equivalent, with flexibility across sections using the supplied ranges as guidance. The component maxima are not an additional allowance. For example, 2,100 + 450 + 275 + 175 totals 3,000 words equivalent. Do not treat the penalty threshold as a target or extra allowance.
 
 ## Development and feedback record
 
