@@ -15,7 +15,7 @@ permalink: /modules/launch-into-computing/
 
 Based on its learning outcomes, this module addresses computing challenges in business systems, the synthesis of information, the evaluation of problem-solving approaches and the responsibilities of computing professionals.
 
-**Module-specific assessment requirements:** The Collaborative Learning Discussion brief is recorded on its assessment page. The End of Module Assignment brief and any additional e-portfolio learning activities are still required.
+**Module-specific assessment requirements:** The Collaborative Learning Discussion brief is recorded on its assessment page. The End of Module Assignment requirements are recorded on the Part A and Part B pages. Any additional e-portfolio learning activities and assessment clarifications remain to be confirmed.
 
 ### Assessment deadlines
 
@@ -33,6 +33,19 @@ The following deadlines are transcribed from the module's Deadline Details suppl
 [View the assessment requirements and submission checklist]({{ '/modules/launch-into-computing/collaborative-discussion/' | relative_url }}).
 
 The discussion requires an initial post, two peer responses and a summary, with a total word count of 1,000 words. The summary is due by Week 3; the compiled Word or PDF document is submitted through the VLE by the end of Week 4. Peer-response word allocation and interim calendar dates remain to be confirmed. This assessment explicitly addresses LO1 and LO2.
+
+### End of Module Assignment
+
+Both parts are due at the end of Unit 12, with the supplied deadline of Monday 25/01/2027 at 23:55.
+
+| Part | Requirements and planning page | Weight stated | Learning outcomes |
+| --- | --- | --- | --- |
+| A | [Programming exercise: comparing C and Python]({{ '/modules/launch-into-computing/assignment-part-a/' | relative_url }}) — 3,000 words equivalent | 40% | LO3, LO4 |
+| B | [Reflection presentation with Generative AI comparison]({{ '/modules/launch-into-computing/assignment-part-b/' | relative_url }}) — 15 minutes, 1,000 words equivalent, up to 10 slides | 40% | LO2, LO3, LO4 |
+
+**Weighting to confirm:** Parts A and B total 80%. This brief does not state the Collaborative Learning Discussion's overall module weight; do not assume the remaining 20% without checking.
+
+**Portfolio and assessment files:** These public pages hold planning information. Submit required assessment files through the VLE, respecting anonymous marking. Confirm whether assessed material should remain unpublished until marking is complete before adding final work to the public portfolio.
 
 ## 2. Learning outcomes and evidence
 
