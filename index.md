@@ -11,11 +11,6 @@ It will bring together coursework, computing artefacts, feedback and critical re
 
 > **Portfolio status:** Initial structure. Module content and supporting evidence have not yet been added.
 
-## Explore the portfolio
-
-- [About Me]({{ '/about/' | relative_url }}) — professional background and study objectives.
-- [Modules]({{ '/modules/' | relative_url }}) — module learning outcomes, evidence and reflection.
-
 ## How the evidence will be presented
 
 Each module will connect its learning outcomes to specific artefacts and reflections. Entries will explain the activity, my contribution, the feedback received, the limitations of the work and the action taken to improve it.
