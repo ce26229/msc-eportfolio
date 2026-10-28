@@ -26,9 +26,9 @@ permalink: /modules/launch-into-computing/assignment-part-b/
 
 Critically evaluate one of the specified emerging technologies—AI, Quantum Computing or Blockchain—and discuss how enterprises can balance innovation with security and ethical considerations.
 
-- **Selected technology:** Not yet chosen.
-- **Enterprise context and case studies:** To research.
-- **Regulatory and governance frameworks:** To identify and evaluate for the selected context.
+- **Selected technology:** **Not yet chosen.**
+- **Enterprise context and case studies:** **To research.**
+- **Regulatory and governance frameworks:** **To identify and evaluate for the selected context.**
 
 ## Three distinct elements
 
@@ -46,11 +46,11 @@ Keep a comparison record:
 
 | Record | Details |
 | --- | --- |
-| Tool and model/version, where available | To record |
-| Date used | To record |
-| Exact prompt | To retain |
-| Complete response | To retain |
-| Excerpts selected for presentation | To identify clearly |
+| Tool and model/version, where available | **To record** |
+| Date used | **To record** |
+| Exact prompt | **To retain** |
+| Complete response | **To retain** |
+| Excerpts selected for presentation | **To identify clearly** |
 | Checks of claims and references | To document |
 
 ### 3. Critical comparison
