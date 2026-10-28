@@ -6,11 +6,13 @@ permalink: /modules/
 
 Each module will have a dedicated page bringing together its learning outcomes, artefacts, feedback, reflection, meeting notes and professional development plan.
 
-> **Awaiting module details:** No module has been recorded as completed.
+> **Portfolio under development:** Module pages distinguish recorded learning outcomes from evidence and reflection still to be added.
 
 ## Module pages
 
-The module list will be added once the official titles and learning outcomes have been confirmed.
+| Module | Portfolio status |
+| --- | --- |
+| [Launch into Computing]({{ '/modules/launch-into-computing/' | relative_url }}) | Learning outcomes recorded; evidence and reflection to be added |
 
 ## Reusable structure
 
