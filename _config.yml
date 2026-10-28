@@ -1,0 +1,13 @@
+title: "MSc ePortfolio"
+description: "Learning, reflection and professional development in Information Technology Management."
+url: "https://ce26229.github.io"
+baseurl: "/msc-eportfolio"
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
+  - EDITING-GUIDE.md
