@@ -35,10 +35,10 @@ permalink: /modules/launch-into-computing/assignment-part-a/
 
 | Data size (records) | C bubble sort time | Python bubble sort time | Python chosen-algorithm time |
 | --- | --- | --- | --- |
-| 100,000 | Not measured | Not measured | Not measured |
-| 200,000 | Not measured | Not measured | Not measured |
-| 500,000 | Not measured | Not measured | Not measured |
-| 800,000 | Not measured | Not measured | Not measured |
+| 100,000 | **Not measured** | **Not measured** | **Not measured** |
+| 200,000 | **Not measured** | **Not measured** | **Not measured** |
+| 500,000 | **Not measured** | **Not measured** | **Not measured** |
+| 800,000 | **Not measured** | **Not measured** | **Not measured** |
 
 ### Proposed evidence practice
 
@@ -79,7 +79,7 @@ The following are planning recommendations, not additional assessment requiremen
 
 | Evidence | Location/version | Feedback | Change and rationale | Outcome |
 | --- | --- | --- | --- | --- |
-| To add after work begins | To add | To record | To evaluate | To evaluate |
+| **To add after work begins** | **To add** | **To record** | **To evaluate** | **To evaluate** |
 
 ## Submission checks
 
