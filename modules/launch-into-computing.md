@@ -15,7 +15,7 @@ permalink: /modules/launch-into-computing/
 
 Based on its learning outcomes, this module addresses computing challenges in business systems, the synthesis of information, the evaluation of problem-solving approaches and the responsibilities of computing professionals.
 
-**Module-specific assessment requirements:** Awaiting the assessment brief.
+**Module-specific assessment requirements:** Awaiting the module's Deadline Details and e-portfolio learning activities. The departmental guidance supplied on 28/10/2026 establishes general portfolio expectations; it does not confirm this module's required artefacts, word count, weighting or deadline.
 
 ## 2. Learning outcomes and evidence
 
@@ -62,21 +62,38 @@ These are suggestions for selecting evidence, not additional university requirem
 
 ## 4. Critical reflection
 
-### Learning and process
+> **Planning prompts, not a completed reflection.** Use the university's three Ws unless the module assessment specifies another format. Gibbs' Reflective Cycle is an alternative identified in the departmental guidance.
 
-What changed in your understanding? Which activities, reading, discussion or practical work contributed to that change? Refer to specific evidence.
+### What? — description
 
-### Evaluation and alternatives
+Keep this the shortest part. Identify the activity, experience or concept, its context, your contribution and the relevant learning outcomes. Link to the artefact and identify any feedback received.
 
-What worked, what did not, and why? Examine your assumptions, the limitations of your approach and credible alternatives. Support academic claims with sources.
+### So what? — interpretation and critical analysis
 
-### Professional, social and global application
+Explain why the experience or learning matters, rather than only describing events.
 
-How does the learning apply to professional practice? Where relevant, examine ethical responsibilities, accessibility, cultural differences and wider social consequences.
+- Analyse your choices, assumptions and reasoning. What worked, what did not, and why?
+- Critique the artefact using specific evidence, including limitations and feedback from peers or tutors.
+- Consider alternative approaches and multiple stakeholder perspectives. What might they reveal that your original approach missed?
+- Connect the experience to prior learning and professional practice. Explain how your understanding changed or was tested.
+- Use relevant academic literature to examine the experience. Compare arguments and evaluate the literature's relevance and limitations, rather than simply adding citations.
+- Where relevant, examine legal, social, ethical and professional implications in a wider social and global context.
 
-### Future action
+### What next? — outcomes and action
 
-What will you do differently? Identify a specific action, a target date and evidence by which you will judge improvement.
+Explain what you learned, what remains uncertain and what you would do differently. Identify how the learning could be applied in future study or professional practice.
+
+Turn development needs into specific actions with target dates and observable success measures. Record these in the skills matrix and action plan, then review their outcomes.
+
+### Reflection review checklist
+
+The departmental guidance associates its highest reflection category with analysis of choices, multiple perspectives, critique of artefacts, critique of literature and an action plan. Use these as review criteria, not as a guarantee of a particular mark.
+
+- Is the reflection supported by actual evidence rather than unsupported claims?
+- Does analysis go beyond description and answer the questions raised?
+- Are alternatives, limitations and feedback considered?
+- Do citations correspond to full Harvard references?
+- Do the skills review and action plan follow from the reflection?
 
 ## 5. Meeting notes
 
@@ -90,7 +107,9 @@ Use a suitable public summary rather than publishing private conversations or id
 
 ## 6. Professional skills matrix
 
-Explain the rating scale used, and distinguish existing professional experience from development during this module.
+**Provisional structure:** Compare this table with the university's official Professional Skills Matrix before submission; its required fields and rating scale have not yet been checked.
+
+Complete the matrix alongside the reflection. Explain any rating scale used, and distinguish existing professional experience from development during this module. Support claims of development with evidence.
 
 | Skill | Starting position | Development during this module | Supporting evidence | Next development need |
 | --- | --- | --- | --- | --- |
@@ -101,9 +120,20 @@ Explain the rating scale used, and distinguish existing professional experience 
 
 ## 7. Action plan
 
+**Provisional structure:** Compare this table with the university's official Action Plan Template before submission. Base the actions on the reflection and skills review. A strengths, weaknesses, opportunities and threats (SWOT) analysis is an optional planning aid identified in the departmental guidance.
+
 | Development objective | Action | Target date | Success measure | Review and outcome |
 | --- | --- | --- | --- | --- |
 | Add objective | Specify what you will do | DD/MM/YYYY | State observable evidence | Update after review |
+
+### Learning loop and review
+
+At the next review, record which actions were completed, the evidence of their effect and any remaining development needs. Revisit this module's skills matrix and action plan during later modules to identify connections across the programme and applications to professional practice.
+
+- **Review date:** To complete.
+- **Actions reviewed and evidence:** To complete.
+- **Connections to later modules or professional practice:** To complete.
+- **Revised actions:** To complete.
 
 ## 8. References
 
