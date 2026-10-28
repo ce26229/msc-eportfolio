@@ -14,8 +14,8 @@ permalink: /modules/launch-into-computing/assignment-part-b/
 | --- | --- |
 | Weight | 40%, as stated in the brief |
 | Duration | 15 minutes |
-| Word equivalence | 1,000 words equivalent; confirm how this relates to the transcript |
-| Slides | PowerPoint deck of up to 10 slides |
+| Planning priority | Deliver a 15-minute presentation. The student has directed that planning focus on duration rather than a 1,000-word transcript target. |
+| Slides | PowerPoint deck of up to 10 slides, including references, as clarified on 28/10/2026 |
 | Other files | Audio recording and accompanying transcript |
 | Maximum upload | 500 MB; confirm whether this applies per file or to the whole submission |
 | Deadline | End of Unit 12: previously supplied as Monday 25/01/2027 at 23:55; learning-platform time zone to confirm |
@@ -68,7 +68,7 @@ Support the comparison with specific examples from both responses. Explain how A
 
 The brief first says “at least 6-8 academic or reputable industry sources”, then explicitly requires **at least eight peer-reviewed sources**. Plan for at least eight relevant peer-reviewed sources, with suitable industry or regulatory sources in addition where useful, and confirm the intended requirement with the tutor.
 
-Include citations and a reference list in the slides, and citations in the transcript. Confirm whether the 10-slide maximum includes reference slides; do not assume they are exempt.
+Include citations and a reference list in the slides, and citations in the transcript. References are included within the 10-slide maximum; allocate space for them within the deck.
 
 ## Presentation and recording
 
@@ -83,7 +83,7 @@ Include citations and a reference list in the slides, and citations in the trans
 - [ ] Prepare the PowerPoint, audio recording and transcript.
 - [ ] Check file sizes and upload requirements.
 
-**Demonstration to clarify:** The brief says the presentation should include a demonstration but does not define its scope. Confirm what is expected before designing this element. Confirm whether audio plus slides is sufficient or a video recording is also expected by the submission point.
+**Demonstration to clarify:** The brief says the presentation should include a demonstration but does not define its scope. The student's provisional interpretation is that this means showing the outcomes of investigations. This is a working interpretation, not confirmed tutor guidance; revisit when clarified. Confirm whether audio plus slides is sufficient or a video recording is also expected by the submission point.
 
 ## Academic integrity boundary
 
@@ -107,4 +107,4 @@ Submit both Parts A and B by the Unit 12 deadline. Keep names out of submitted w
 
 Do not use appendices to extend the main argument. Check originality using the [Turnitin practice point](https://www.my-course.co.uk/mod/assign/view.php?id=1434382); this does not replace final submission. ZIP files are permitted by the supplied instructions. Retain the final submission receipt.
 
-**Word-equivalence to clarify:** A 15-minute presentation and “1,000 words equivalent” are both specified. Confirm how transcript length is assessed and how any word-count penalty applies; do not assume the transcript must be exactly 1,000 spoken words.
+**Duration-led planning:** Plan and rehearse for 15 minutes, without imposing a 1,000-word transcript target, as directed by the student on 28/10/2026. The original brief describes the assessment as 1,000 words equivalent; this is retained for traceability rather than treated as a spoken-word target. The transcript should accurately accompany the delivered presentation.
