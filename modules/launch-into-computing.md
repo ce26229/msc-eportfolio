@@ -15,7 +15,7 @@ permalink: /modules/launch-into-computing/
 
 Based on its learning outcomes, this module addresses computing challenges in business systems, the synthesis of information, the evaluation of problem-solving approaches and the responsibilities of computing professionals.
 
-**Module-specific assessment requirements:** Assessment names and deadlines have been recorded below. The full assessment instructions and e-portfolio learning activities are still required to confirm the required evidence and submission arrangements.
+**Module-specific assessment requirements:** The Collaborative Learning Discussion brief is recorded on its assessment page. The End of Module Assignment brief and any additional e-portfolio learning activities are still required.
 
 ### Assessment deadlines
 
@@ -27,6 +27,12 @@ The following deadlines are transcribed from the module's Deadline Details suppl
 | End of Module Assignment | Unit 12 | Monday 25/01/2027, 23:55 | [Open assignment](https://www.my-course.co.uk/mod/assign/view.php?id=1434495) |
 
 **Requirements still to confirm:** The assessment instructions, required artefacts, word limits, weighting, submission format and whether either assessment includes an ePortfolio submission. These deadline entries alone do not establish the assignment requirements. Recheck the learning platform for changes before submitting.
+
+### Collaborative Learning Discussion brief
+
+[View the assessment requirements and submission checklist]({{ '/modules/launch-into-computing/collaborative-discussion/' | relative_url }}).
+
+The discussion requires an initial post, two peer responses and a summary, with a total word count of 1,000 words. The summary is due by Week 3; the compiled Word or PDF document is submitted through the VLE by the end of Week 4. Peer-response word allocation and interim calendar dates remain to be confirmed. This assessment explicitly addresses LO1 and LO2.
 
 ## 2. Learning outcomes and evidence
 
