@@ -15,7 +15,18 @@ permalink: /modules/launch-into-computing/
 
 Based on its learning outcomes, this module addresses computing challenges in business systems, the synthesis of information, the evaluation of problem-solving approaches and the responsibilities of computing professionals.
 
-**Module-specific assessment requirements:** Awaiting the module's Deadline Details and e-portfolio learning activities. The departmental guidance supplied on 28/10/2026 establishes general portfolio expectations; it does not confirm this module's required artefacts, word count, weighting or deadline.
+**Module-specific assessment requirements:** Assessment names and deadlines have been recorded below. The full assessment instructions and e-portfolio learning activities are still required to confirm the required evidence and submission arrangements.
+
+### Assessment deadlines
+
+The following deadlines are transcribed from the module's Deadline Details supplied on 28/10/2026. Times are reproduced as displayed; the learning platform's time zone has not yet been confirmed.
+
+| Assessment | Units | Deadline as displayed | Assessment link |
+| --- | --- | --- | --- |
+| Collaborative Learning Discussion | Units 1–4 | Monday 16/11/2026, 23:55 | [Open discussion](https://www.my-course.co.uk/mod/forum/view.php?id=1434406) |
+| End of Module Assignment | Unit 12 | Monday 25/01/2027, 23:55 | [Open assignment](https://www.my-course.co.uk/mod/assign/view.php?id=1434495) |
+
+**Requirements still to confirm:** The assessment instructions, required artefacts, word limits, weighting, submission format and whether either assessment includes an ePortfolio submission. These deadline entries alone do not establish the assignment requirements. Recheck the learning platform for changes before submitting.
 
 ## 2. Learning outcomes and evidence
 
