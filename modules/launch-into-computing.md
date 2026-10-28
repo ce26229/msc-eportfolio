@@ -41,11 +41,15 @@ Both parts are due at the end of Unit 12, with the supplied deadline of Monday 2
 | Part | Requirements and planning page | Weight stated | Learning outcomes |
 | --- | --- | --- | --- |
 | A | [Programming exercise: comparing C and Python]({{ '/modules/launch-into-computing/assignment-part-a/' | relative_url }}) — 3,000 words equivalent | 40% | LO3, LO4 |
-| B | [Reflection presentation with Generative AI comparison]({{ '/modules/launch-into-computing/assignment-part-b/' | relative_url }}) — 15 minutes, 1,000 words equivalent, up to 10 slides | 40% | LO2, LO3, LO4 |
+| B | [Reflection presentation with Generative AI comparison]({{ '/modules/launch-into-computing/assignment-part-b/' | relative_url }}) — 15 minutes, up to 10 slides including references | 40% | LO2, LO3, LO4 |
 
-**Weighting to confirm:** Parts A and B total 80%. This brief does not state the Collaborative Learning Discussion's overall module weight; do not assume the remaining 20% without checking.
+**Overall module weighting:** Collaborative Learning Discussion 20%; End of Module Part A 40%; End of Module Part B 40%. The discussion weighting was clarified by the student on 28/10/2026.
 
 **Portfolio and assessment files:** These public pages hold planning information. Submit required assessment files through the VLE, respecting anonymous marking. Confirm whether assessed material should remain unpublished until marking is complete before adding final work to the public portfolio.
+
+### Portfolio development workflow
+
+This portfolio records assessment requirements, evidence, feedback and reflection. Assignment research, coding and presentation development are undertaken separately. Add selected artefacts or suitable summaries here when supplied, mapping them to learning outcomes and recording feedback and subsequent development. No assignment work is assumed complete merely because a planning page exists.
 
 ## 2. Learning outcomes and evidence
 
