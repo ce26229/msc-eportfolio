@@ -53,3 +53,11 @@ Practise creating a branch from main using the branch selector on the Code tab. 
 Check the assessment brief before selecting a submission publishing source. This repository has one Pages site; changing its source branch changes the version shown at that address. Preserve the submission branch and commit, and avoid changing an assessed publication until the university's requirements are clear.
 
 Written documents must follow the university's submission formatting. Browser printing is a convenience and is not a substitute for checking document formatting and page numbering.
+
+## Module overview and separate pages
+
+Launch into Computing is now a short overview with navigation cards. Each card is an ordinary link to a Markdown page in modules/. Files beginning launch-into-computing- hold the individual sections; their front matter defines the published addresses.
+
+Replacement prompts are bold: **To complete.** Replace the prompt with your own text and remove the ** markers when the entry is finished. Guidance and confirmed requirements are not replacement text.
+
+For reflection, fill the three short sections first. The expandable guidance below them provides the detailed checklist. All existing assessment page addresses remain available.
